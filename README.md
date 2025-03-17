@@ -1,2 +1,0 @@
-# Stepik_lang
-# cheak
